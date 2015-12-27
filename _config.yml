@@ -1,7 +1,7 @@
 name: Solstice Partners
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.10059169493615627
+typography_spectrum: 0.68417
 title: 'Progressive Real Estate Development shop based in Baltimore, MD'
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#877a71'
     - '#b0b563'
   brandStrength: 0.75
-  lightness: 0.3023986420594156
-  saturation: 0.48616530536673963
-  rhythmicContrast: 0.6910719703882933
+  lightness: 0.375
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
